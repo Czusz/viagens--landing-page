@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+nav {
+  background: #c47e35;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s, background 0.3s;
+}
+
+nav a:hover {
+  background: #dca15d;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+.banner {
+  height: 400px;
+  background-image: url('https://images.unsplash.com/photo-1502219422320-7c3ebc1d9b9b');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.overlay h1 {
+  font-size: 2.5em;
+  padding: 0 20px;
+}
+
+section {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+footer {
+  background: #f2ecee;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #458179;
+  font-weight: bold;
+}
+
+footer a:hover {
+  color: #2c2c2c;
+}
