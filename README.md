@@ -45,4 +45,5 @@ Uma landing page simples e elegante com tema de vilarejo europeu, desenvolvida c
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/viagens--landing-page
+git clone https://github.com/Czusz/viagens--landing-page
+
