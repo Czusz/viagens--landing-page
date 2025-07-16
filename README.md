@@ -38,7 +38,8 @@ Uma landing page simples e elegante com tema de vilarejo europeu, desenvolvida c
 ### 🔧 Requisitos
 
 - Navegador moderno (Chrome, Firefox, Edge, etc.)
-- [VS Code](https://code.visualstudio.com/) com extensão **Live Server** ou use um serviço como [CodePen](https://codepen.io/) ou [GitHub Pages](https://pages.github.com/)
+- [VS Code](https://code.visualstudio.com/) com a extensão **Live Server**
+- Ou, alternativamente, usar plataformas online como [CodePen](https://codepen.io/) ou [GitHub Pages](https://pages.github.com/)
 
 ### 💻 Passos
 
@@ -46,4 +47,3 @@ Uma landing page simples e elegante com tema de vilarejo europeu, desenvolvida c
 
 ```bash
 git clone https://github.com/Czusz/viagens--landing-page
-
